@@ -9,6 +9,8 @@ function App() {
         <p>
           Marta Layne's son was here.
         </p>
+        <h2>Latest news</h2>
+        <p>Panama on strike Oct 31, 2023</p>
         <a
           className="App-link"
           href="https://www.instagram.com/elite_womenpty/"
